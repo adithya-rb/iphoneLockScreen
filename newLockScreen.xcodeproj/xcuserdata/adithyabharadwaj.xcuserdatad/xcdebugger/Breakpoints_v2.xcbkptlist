@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newLockScreen/ViewController2.swift"
+            timestampString = "469455411.630067"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController2"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newLockScreen.ViewController2.pswd.setter : Swift.String"
+                  moduleName = "newLockScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adithyabharadwaj/Documents/XcodeProjects/newLockScreen/newLockScreen/ViewController2.swift"
+                  timestampString = "469455571.478581"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newLockScreen.ViewController2.pswd.materializeForSet : Swift.String"
+                  moduleName = "newLockScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adithyabharadwaj/Documents/XcodeProjects/newLockScreen/newLockScreen/ViewController2.swift"
+                  timestampString = "469455571.478714"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newLockScreen.ViewController2.init (newLockScreen.ViewController2.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; newLockScreen.ViewController2"
+                  moduleName = "newLockScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adithyabharadwaj/Documents/XcodeProjects/newLockScreen/newLockScreen/ViewController2.swift"
+                  timestampString = "469455571.47883"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newLockScreen.ViewController2.init (newLockScreen.ViewController2.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;newLockScreen.ViewController2&gt;"
+                  moduleName = "newLockScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adithyabharadwaj/Documents/XcodeProjects/newLockScreen/newLockScreen/ViewController2.swift"
+                  timestampString = "469455571.47896"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newLockScreen/Header.h"
+            timestampString = "469530522.865932"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
